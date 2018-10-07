@@ -28,6 +28,6 @@ class boardMembers {
 
 class Ceo extends boardMembers {
  sayHello(){
-    return 'Welcome aboard!';
+    return `Welcome aboard!`;
   }
 }
