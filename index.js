@@ -29,6 +29,6 @@ class boardMembers {
    }
 }
 
-class Teacher extends User {
+class Ceo extends boardMembers {
  
 }
