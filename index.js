@@ -31,6 +31,6 @@ class boardMembers {
 
 class Ceo extends boardMembers {
  sayHello(){
-    console.log('hello')
+    return 'Welcome aboard!';
   }
 }
